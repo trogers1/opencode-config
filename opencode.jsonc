@@ -16,6 +16,6 @@
       "git push *": "deny",
       "grep *": "allow",
     },
+    "external_directory": "ask",
   },
-  "external_directory": "ask",
 }
