@@ -1,0 +1,3 @@
+= Opencode Config
+
+This is simply my global `opencode` configuration file that lives at `~/.config/opencode` alongside the other files that `opencode` manages itself (`package.json`, `bun.lock`, etc.).
