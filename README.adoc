@@ -1,3 +1,11 @@
 = Opencode Config
 
 This is simply my global `opencode` configuration file that lives at `~/.config/opencode` alongside the other files that `opencode` manages itself (`package.json`, `bun.lock`, etc.).
+
+Setup is simply:
+
+. `cd ~/.config/opencode/`
+. `git init`
+. `git remote add origin git@github.com:trogers1/opencode-config.git`
+. `git checkout main`
+. `git pull`
