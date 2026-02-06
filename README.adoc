@@ -9,3 +9,18 @@ Setup is simply:
 . `git remote add origin git@github.com:trogers1/opencode-config.git`
 . `git checkout main`
 . `git pull`
+
+== Notes
+
+Fwiw, I have found opencode config files in these locations. To remove them all:
+
+[source,bash]
+----
+rm -rf ~/.cache/opencode \
+rm -rf ~/.local/share/opencode \
+rm -rf ~/.local/share/opentui/opencode \
+rm -rf ~/.local/state/opencode \
+rm -rf ~/.config/opencode \
+rm -rf ~/.opencode \
+rm -rf ~/.bun/install/cache/@opencode-ai
+----
