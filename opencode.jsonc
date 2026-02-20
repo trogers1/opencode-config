@@ -36,6 +36,7 @@
       "git add *": "deny",
       "git worktree *": "deny",
       "grep *": "allow",
+      "npx vitest *": "allow",
       "sed *": "allow",
       "ls *": "allow",
       "npm *": "allow",
