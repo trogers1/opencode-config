@@ -7,7 +7,7 @@
     },
     "diff_style": "auto",
   },
-  "default_agent": "plan",
+  "default_agent": "build",
   "permission": {
     "bash": {
       "*": "ask",
